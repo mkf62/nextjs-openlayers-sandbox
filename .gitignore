@@ -1,0 +1,26 @@
+# dependencies
+/nextjs/node_modules
+
+# next.js
+/nextjs/.next/
+/nextjs/out/
+
+# production
+/nextjs/build
+
+# misc
+.DS_Store
+*.pem
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# python
+__pycache__
+
+# vscode
+.vscode

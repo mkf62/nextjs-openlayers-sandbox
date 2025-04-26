@@ -1,0 +1,33 @@
+.header {
+    background-color: var(--mantine-color-blue100-0);
+    color: white;
+    padding: 10px 12px 10px 16px;
+
+    & > h2 {
+        font-weight: 700;
+    }
+}
+
+.inner {
+    justify-content: flex-start;
+    top: 5.5rem;
+    left: 1.25rem;
+    padding: 0;
+}
+
+.content {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    margin-top: 1rem;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.spacing {
+    margin-top: 0.5rem;
+}
