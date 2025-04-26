@@ -56,6 +56,7 @@ Generally speaking, yes, but OpenLayers was not originally written to be utilize
 ### Special Notes
 
 -   `next.config.ts` has `reactStrictMode` set to `false`. When set to `true` it causes problems with rendering OpenLayers maps.
+-   If you prefer Zustand over Redux-Toolkit, I have also successfully implemented that as my global state manager so it should be possible to alter this template to your liking with Zustand.
 
 ---
 
