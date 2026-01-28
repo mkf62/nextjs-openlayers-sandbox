@@ -9,28 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mantine/core": "^7.17.5",
-    "@mantine/hooks": "^7.17.5",
-    "@reduxjs/toolkit": "^2.7.0",
-    "@tabler/icons-react": "^3.31.0",
-    "next": "15.3.1",
-    "ol": "^10.5.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "@mantine/core": "^8.3.13",
+    "@mantine/hooks": "^8.3.13",
+    "@reduxjs/toolkit": "^2.11.2",
+    "@tabler/icons-react": "^3.36.1",
+    "next": "16.1.6",
+    "ol": "^10.7.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "react-redux": "^9.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20",
+    "@types/node": "^25",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.3.1",
-    "postcss": "^8.5.3",
-    "postcss-import": "^16.1.0",
-    "postcss-preset-mantine": "^1.17.0",
+    "eslint-config-next": "16.1.6",
+    "postcss": "^8.5.6",
+    "postcss-import": "^16.1.1",
+    "postcss-preset-mantine": "^1.18.0",
     "postcss-simple-vars": "^7.0.1",
-    "prettier": "^3.5.3",
+    "prettier": "^3.8.1",
     "typescript": "^5"
   }
 }
